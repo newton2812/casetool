@@ -4,4 +4,8 @@ public class class216 {
 
 	
 	int size;
+	
+	int num1;
+	
+	
 }
